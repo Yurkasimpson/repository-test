@@ -12,6 +12,7 @@
 
     <!-- Bootstrap core CSS -->
     <link href="/resource/css/bootstrap.css" rel="stylesheet">
+    <link href="/resource/css/base.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="starter-template.css" rel="stylesheet">
